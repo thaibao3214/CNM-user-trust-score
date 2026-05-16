@@ -1,0 +1,31 @@
+# venv
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# Data files
+data/raw/
+data/processed/
+data/predictions.csv
+
+# Models
+models/*.pkl
+
+# Large files
+*.zip
+*.csv
+
+# Kaggle API
+kaggle.json
+
+# OS
+.DS_Store
+Thumbs.db
